@@ -1,0 +1,11 @@
+{
+  "name": "alien-artifacts",
+  "version": "0.0.1",
+  "title": "Alien Artifacts",
+  "author": "CppMonkey",
+  "contact": "paul@cppmonkey.net",
+  "homepage": "",
+  "description": "",
+  "dependencies": ["base >= 0.12.1"]
+}
+  
