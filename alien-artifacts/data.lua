@@ -9,7 +9,7 @@ function AddLootToEntity(entityType, entityName, itemName, probability, countMin
 	end
 end
 
-AddLootToEntity("unit","small-biter","alien-artifact",.1,1,1)
+AddLootToEntity("unit","small-spitter","alien-artifact",.1,1,1)
 AddLootToEntity("unit","small-biter","alien-artifact",.1,1,1)
 
 AddLootToEntity("unit","medium-spitter","alien-artifact",.4,1,1)
